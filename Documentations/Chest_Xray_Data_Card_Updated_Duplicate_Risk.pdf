@@ -1,0 +1,1477 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R ]
+/Contents 8 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 9 0 R
+/F1-0 10 0 R
+/F2 11 0 R
+/F2-0 12 0 R
+/F3 13 0 R
+/F3-0 14 0 R
+/F4 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057nihcc\056app\056box\056com\057v\057ChestXray\055NIHCC)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 177.1315 699.8227 265.9463 707.9827 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057doi\056org\05710\0561109\057CVPR\0562017\056369)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 306.1811 445.1556 383.8341 452.4756 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057nihcc\056app\056box\056com\057v\057ChestXray\055NIHCC)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 306.1811 364.0438 385.8532 371.1438 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Length 23964
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.14902 .505882 .490196 rg
+n 0 835.3701 595.2756 6.519685 re f*
+Q
+q
+1 0 0 1 36.85039 759.3543 cm
+q
+.090196 .196078 .301961 rg
+n 0 51.02362 521.5748 -51.02362 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 20.26181 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 18 Tf 20 TL (DATA CARD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 10.76181 cm
+q
+.894118 .929412 .956863 rg
+BT 1 0 0 1 0 1.5 Tm /F1 8 Tf 9.5 TL (Reliable Chest X-Ray AI | NIH ChestX-ray14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 359.4961 31.26181 cm
+q
+BT 1 0 0 1 0 1.5 Tm 9.5 TL /F2 8 Tf .894118 .929412 .956863 rg (ACCESS DATE) Tj /F1 8 Tf ( 27 October 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 359.4961 29.26181 cm
+Q
+q
+1 0 0 1 359.4961 10.26181 cm
+q
+BT 1 0 0 1 0 11 Tm 9.5 TL /F2 8 Tf .894118 .929412 .956863 rg (MODALITY) Tj /F1 8 Tf ( Chest X-ray images +) Tj T* (metadata) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.341176 .462745 .552941 RG
+.8 w
+n 351.4961 0 m 351.4961 51.02362 l S
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 753.685 cm
+Q
+q
+1 0 0 1 35.43307 726.885 cm
+q
+.917647 .94902 .968627 rg
+n 0 26.8 524.4094 -26.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 10.8 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 .5 Tm /F2 11.5 Tf 12 TL 25.66044 0 Td (112,120) Tj T* -25.66044 0 Td ET
+Q
+Q
+q
+1 0 0 1 110.8819 10.8 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 .5 Tm /F2 11.5 Tf 12 TL 28.85744 0 Td (30,805) Tj T* -28.85744 0 Td ET
+Q
+Q
+q
+1 0 0 1 215.7638 10.8 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 .5 Tm /F2 11.5 Tf 12 TL 26.94269 0 Td (53.84%) Tj T* -26.94269 0 Td ET
+Q
+Q
+q
+1 0 0 1 320.6457 10.8 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 .5 Tm /F2 11.5 Tf 12 TL 26.94269 0 Td (46.16%) Tj T* -26.94269 0 Td ET
+Q
+Q
+q
+1 0 0 1 425.5276 10.8 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 .5 Tm /F2 11.5 Tf 12 TL 40.04694 0 Td (15) Tj T* -40.04694 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 6 Tf 6.8 TL 27.26794 0 Td (Image records) Tj T* -27.26794 0 Td ET
+Q
+Q
+q
+1 0 0 1 110.8819 4 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 6 Tf 6.8 TL 25.59694 0 Td (Unique patients) Tj T* -25.59694 0 Td ET
+Q
+Q
+q
+1 0 0 1 215.7638 4 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 6 Tf 6.8 TL 24.76894 0 Td (Normal \(60,361\)) Tj T* -24.76894 0 Td ET
+Q
+Q
+q
+1 0 0 1 320.6457 4 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 6 Tf 6.8 TL 21.59794 0 Td (Abnormal \(51,759\)) Tj T* -21.59794 0 Td ET
+Q
+Q
+q
+1 0 0 1 425.5276 4 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 6 Tf 6.8 TL 24.93394 0 Td (Original findings) Tj T* -24.93394 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.831373 .878431 .909804 RG
+.5 w
+n 0 26.8 m 524.4094 26.8 l S
+n 0 0 m 524.4094 0 l S
+n 0 0 m 0 26.8 l S
+n 524.4094 0 m 524.4094 26.8 l S
+.3 w
+n 0 10.8 m 524.4094 10.8 l S
+n 104.8819 0 m 104.8819 26.8 l S
+n 209.7638 0 m 209.7638 26.8 l S
+n 314.6457 0 m 314.6457 26.8 l S
+n 419.5276 0 m 419.5276 26.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 721.7827 cm
+Q
+q
+1 0 0 1 31.1811 655.8827 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 8.1 cm
+q
+.952941 .968627 .980392 rg
+n 0 57.8 262.9134 -57.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 45 cm
+q
+BT 1 0 0 1 0 1.1 Tm 9.3 TL /F2 8.2 Tf .090196 .196078 .301961 rg (1 SOURCE, CONTENT & ACCESS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3.5 cm
+q
+BT 1 0 0 1 0 33.7 Tm 8.1 TL /F1 6.8 Tf .121569 .176471 .227451 rg (Provider: ) Tj /F2 6.8 Tf (NIH Clinical Center) Tj /F1 6.8 Tf (. Official source: ) Tj .172549 .431373 .568627 rg (NIH ChestX-ray dataset page) Tj .121569 .176471 .227451 rg (. The) Tj T* (project uses ) Tj /F2 6.8 Tf (112,120 PNG images from 30,805 unique patients) Tj /F1 6.8 Tf (. Metadata fields:) Tj T* (image name, finding labels, follow-up index, patient ID, age, sex, view position) Tj T* (\(AP/PA\), image width/height, and pixel spacing \(x/y\). Recorded image dimensions) Tj T* (vary: width 1,143\2263,827 px and height 966\2264,715 px.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.831373 .878431 .909804 RG
+.5 w
+n 0 57.8 m 262.9134 57.8 l S
+n 0 0 m 262.9134 0 l S
+n 0 0 m 0 57.8 l S
+n 262.9134 0 m 262.9134 57.8 l S
+.14902 .505882 .490196 RG
+2 w
+n 0 0 m 0 57.8 l S
+Q
+Q
+Q
+BT 1 0 0 1 262.9134 55.9 Tm  T* ET
+q
+1 0 0 1 270 0 cm
+q
+.952941 .968627 .980392 rg
+n 0 65.9 262.9134 -65.9 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 53.1 cm
+q
+BT 1 0 0 1 0 1.1 Tm 9.3 TL /F2 8.2 Tf .090196 .196078 .301961 rg (2 LABEL GENERATION & BINARY DEFINITION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3.5 cm
+q
+BT 1 0 0 1 0 41.8 Tm 8.1 TL /F1 6.8 Tf .121569 .176471 .227451 rg (The 15 original findings were automatically extracted from associated radiology) Tj T* (reports using an NLP labeler. These are ) Tj /F2 6.8 Tf (weak labels) Tj /F1 6.8 Tf (, not independently confirmed) Tj T* -0.007851 Tw (ground truth for every image. ) Tj /F2 6.8 Tf (Normal = \223No Finding\224 \(0\):) Tj /F1 6.8 Tf ( 60,361 images \(53.84%\).) Tj T* 0 Tw /F2 6.8 Tf (Abnormal = one or more other findings \(1\):) Tj /F1 6.8 Tf ( 51,759 images \(46.16%\). An image) Tj T* (with multiple abnormal findings counts as ) Tj /F2 6.8 Tf (one Abnormal example) Tj /F1 6.8 Tf ( in this binary) Tj T* (task; this simplifies the original multi-label problem.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.831373 .878431 .909804 RG
+.5 w
+n 0 65.9 m 262.9134 65.9 l S
+n 0 0 m 262.9134 0 l S
+n 0 0 m 0 65.9 l S
+n 262.9134 0 m 262.9134 65.9 l S
+.14902 .505882 .490196 RG
+2 w
+n 0 0 m 0 65.9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 650.7803 cm
+Q
+q
+1 0 0 1 31.1811 584.8803 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 8.1 cm
+q
+.952941 .968627 .980392 rg
+n 0 57.8 262.9134 -57.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 45 cm
+q
+BT 1 0 0 1 0 1.1 Tm 9.3 TL /F2 8.2 Tf .090196 .196078 .301961 rg (3 VIEW POSITION & ACQUISITION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3.5 cm
+q
+BT 1 0 0 1 0 33.7 Tm 8.1 TL /F2 6.8 Tf .121569 .176471 .227451 rg (AP:) Tj /F1 6.8 Tf ( 44,810 images \(40.0%\); beam travels anterior-to-posterior and is often used for) Tj T* (portable/bedside imaging. ) Tj /F2 6.8 Tf (PA:) Tj /F1 6.8 Tf ( 67,310 images \(60.0%\); beam travels) Tj T* (posterior-to-anterior and is commonly acquired upright. These acquisition conditions) Tj T* (are not interchangeable. Evaluate model performance by view position; descriptive) Tj T* (label differences alone do not prove acquisition bias or model error.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.831373 .878431 .909804 RG
+.5 w
+n 0 57.8 m 262.9134 57.8 l S
+n 0 0 m 262.9134 0 l S
+n 0 0 m 0 57.8 l S
+n 262.9134 0 m 262.9134 57.8 l S
+.14902 .505882 .490196 RG
+2 w
+n 0 0 m 0 57.8 l S
+Q
+Q
+Q
+BT 1 0 0 1 262.9134 55.9 Tm  T* ET
+q
+1 0 0 1 270 0 cm
+q
+.952941 .968627 .980392 rg
+n 0 65.9 262.9134 -65.9 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 53.1 cm
+q
+BT 1 0 0 1 0 1.1 Tm 9.3 TL /F2 8.2 Tf .090196 .196078 .301961 rg (4 PATIENT & DEMOGRAPHIC STRUCTURE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3.5 cm
+q
+BT 1 0 0 1 0 41.8 Tm 8.1 TL /F2 6.8 Tf .121569 .176471 .227451 rg (Repeated examinations:) Tj /F1 6.8 Tf ( 13,302 patients \(43.18%\) have more than one image;) Tj T* (one patient has up to 184 images. Split by ) Tj /F2 6.8 Tf (patient_id) Tj /F1 6.8 Tf (, not randomly by image, to) Tj T* (reduce patient-level leakage. ) Tj /F2 6.8 Tf (Age:) Tj /F1 6.8 Tf ( Normal mean 45.48 years \(median 47\);) Tj T* (Abnormal mean 47.96 \(median 50\). Fourteen rows record age 0 and need an) Tj T* (explicit handling decision. Sex proportions are broadly similar in the reviewed binary) Tj T* (groups, but subgroup representation and performance should still be assessed.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.831373 .878431 .909804 RG
+.5 w
+n 0 65.9 m 262.9134 65.9 l S
+n 0 0 m 262.9134 0 l S
+n 0 0 m 0 65.9 l S
+n 262.9134 0 m 262.9134 65.9 l S
+.14902 .505882 .490196 RG
+2 w
+n 0 0 m 0 65.9 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 579.778 cm
+Q
+q
+1 0 0 1 31.1811 497.678 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 8.1 cm
+q
+.952941 .968627 .980392 rg
+n 0 74 262.9134 -74 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 61.2 cm
+q
+BT 1 0 0 1 0 1.1 Tm 9.3 TL /F2 8.2 Tf .090196 .196078 .301961 rg (5 KNOWN LIMITATIONS & DATA QUALITY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3.5 cm
+q
+.121569 .176471 .227451 rg
+BT 1 0 0 1 0 49.9 Tm /F1 6.8 Tf 8.1 TL (Automatically extracted labels may be missing, incorrect, or imperfectly aligned with) Tj T* (the visible image. The binary target collapses multiple abnormal disease categories) Tj T* (into one class and can hide clinically meaningful distinctions. Class proportions are) Tj T* (moderately imbalanced \(53.84% Normal vs 46.16% Abnormal\). Repeated images) Tj T* (per patient and AP/PA acquisition differences can affect evaluation. The audited) Tj T* (metadata CSV had no missing values or duplicate metadata rows; this does not) Tj T* (guarantee error-free images, labels, or clinical records.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.831373 .878431 .909804 RG
+.5 w
+n 0 74 m 262.9134 74 l S
+n 0 0 m 262.9134 0 l S
+n 0 0 m 0 74 l S
+n 262.9134 0 m 262.9134 74 l S
+.14902 .505882 .490196 RG
+2 w
+n 0 0 m 0 74 l S
+Q
+Q
+Q
+BT 1 0 0 1 262.9134 72.1 Tm  T* ET
+q
+1 0 0 1 270 0 cm
+q
+.952941 .968627 .980392 rg
+n 0 82.1 262.9134 -82.1 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 69.3 cm
+q
+BT 1 0 0 1 0 1.1 Tm 9.3 TL /F2 8.2 Tf .090196 .196078 .301961 rg (6 USAGE CONDITIONS, ETHICS & INTENDED USE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3.5 cm
+q
+BT 1 0 0 1 0 58 Tm 8.1 TL /F1 6.8 Tf .121569 .176471 .227451 rg (Follow NIH usage guidance: acknowledge the NIH Clinical Center, link the official) Tj T* (source, and cite the original publication. NIH describes use as unrestricted subject) Tj T* (to attribution; the referenced source does not specify a separate standardized) Tj T* (Creative Commons license. The public release is de-identified: do not attempt) Tj T* (re-identification. Assess limitations and potential bias responsibly. ) Tj /F2 6.8 Tf (Intended use:) Tj /F1 6.8 Tf  T* (academic research and model evaluation only. This is a ) Tj /F2 6.8 Tf (research prototype, not a) Tj T* (clinically validated diagnostic tool) Tj /F1 6.8 Tf (; it must not replace radiologists or guide care) Tj T* (without appropriate clinical validation and oversight.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.831373 .878431 .909804 RG
+.5 w
+n 0 82.1 m 262.9134 82.1 l S
+n 0 0 m 262.9134 0 l S
+n 0 0 m 0 82.1 l S
+n 262.9134 0 m 262.9134 82.1 l S
+.14902 .505882 .490196 RG
+2 w
+n 0 0 m 0 82.1 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 492.5756 cm
+Q
+q
+1 0 0 1 47.48031 311.1756 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 172.1 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.1 Tm /F2 8.2 Tf 9.3 TL (ORIGINAL FINDING LABELS \227 MULTI-LABEL DISTRIBUTION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 16.8 cm
+q
+.917647 .94902 .968627 rg
+n 0 153.3 240.9449 -12.3 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 3 142.5 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.1 Tm /F2 8.2 Tf 9.3 TL (ORIGINAL FINDING LABEL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 142.5 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.1 Tm /F2 8.2 Tf 9.3 TL (COUNT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 142.5 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.1 Tm /F2 8.2 Tf 9.3 TL (%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 133.1 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (No Finding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 133.1 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (60,361) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 133.1 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (53.84%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 123.7 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Infiltration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 123.7 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (19,894) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 123.7 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (17.74%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 114.3 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Effusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 114.3 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (13,317) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 114.3 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (11.88%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 104.9 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Atelectasis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 104.9 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (11,559) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 104.9 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (10.31%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 95.5 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Nodule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 95.5 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (6,331) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 95.5 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (5.65%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 86.1 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Mass) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 86.1 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (5,782) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 86.1 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (5.16%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 76.7 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Pneumothorax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 76.7 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (5,302) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 76.7 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (4.73%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 67.3 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Consolidation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 67.3 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (4,667) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 67.3 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (4.16%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 57.9 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Pleural Thickening) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 57.9 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (3,385) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 57.9 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (3.02%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 48.5 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Cardiomegaly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 48.5 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (2,776) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 48.5 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (2.48%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 39.1 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Emphysema) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 39.1 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (2,516) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 39.1 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (2.24%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 29.7 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Edema) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 29.7 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (2,303) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 29.7 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (2.05%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 20.3 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Fibrosis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 20.3 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (1,686) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 20.3 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (1.50%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 10.9 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Pneumonia) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 10.9 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (1,431) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 10.9 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (1.28%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 1.5 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Hernia) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.3937 1.5 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (227) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.7559 1.5 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (0.20%) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.831373 .878431 .909804 RG
+.45 w
+n 0 153.3 m 240.9449 153.3 l S
+n 0 0 m 240.9449 0 l S
+n 0 0 m 0 153.3 l S
+n 240.9449 0 m 240.9449 153.3 l S
+.2 w
+n 0 141 m 240.9449 141 l S
+n 0 131.6 m 240.9449 131.6 l S
+n 0 122.2 m 240.9449 122.2 l S
+n 0 112.8 m 240.9449 112.8 l S
+n 0 103.4 m 240.9449 103.4 l S
+n 0 94 m 240.9449 94 l S
+n 0 84.6 m 240.9449 84.6 l S
+n 0 75.2 m 240.9449 75.2 l S
+n 0 65.8 m 240.9449 65.8 l S
+n 0 56.4 m 240.9449 56.4 l S
+n 0 47 m 240.9449 47 l S
+n 0 37.6 m 240.9449 37.6 l S
+n 0 28.2 m 240.9449 28.2 l S
+n 0 18.8 m 240.9449 18.8 l S
+n 0 9.4 m 240.9449 9.4 l S
+n 130.3937 0 m 130.3937 153.3 l S
+n 192.7559 0 m 192.7559 153.3 l S
+Q
+Q
+Q
+q
+1 0 0 1 0 2 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 7.2 Tm /F1 5.6 Tf 6.4 TL (Percentages are per image and sum to more than 100% because one image may have multiple) Tj T* (findings. These original labels are distinct from the binary target.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+BT 1 0 0 1 246.6142 171.4 Tm  T* ET
+q
+1 0 0 1 253.7008 50.13071 cm
+q
+.952941 .968627 .980392 rg
+n 0 131.2693 246.6142 -131.2693 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 118.4693 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.1 Tm /F2 8.2 Tf 9.3 TL (ORIGINAL PUBLICATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 84.06929 cm
+q
+BT 1 0 0 1 0 22.3 Tm 7.1 TL /F1 6.1 Tf .121569 .176471 .227451 rg (Wang, X., Peng, Y., Lu, L., Lu, Z., Bagheri, M., & Summers, R. \(2017\). ) Tj /F3 6.1 Tf (ChestX-ray8:) Tj T* (Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised) Tj T* (Classification and Localization of Common Thorax Diseases.) Tj /F1 6.1 Tf ( IEEE CVPR.) Tj T* .172549 .431373 .568627 rg (doi:10.1109/CVPR.2017.369) Tj .121569 .176471 .227451 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 75.23465 cm
+Q
+q
+1 0 0 1 5 59.93465 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.1 Tm /F2 8.2 Tf 9.3 TL (ADDITIONAL DATA AUDIT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 39.73465 cm
+q
+.121569 .176471 .227451 rg
+BT 1 0 0 1 0 8.1 Tm /F1 6.1 Tf 7.1 TL (Follow-up index: mean 8.57, median 3, range 0\226183; it is an index, not elapsed time.) Tj T* (The reviewed metadata had no missing values or duplicate metadata rows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 30.9 cm
+Q
+q
+1 0 0 1 5 15.6 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.1 Tm /F2 8.2 Tf 9.3 TL (OFFICIAL SOURCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 2.5 cm
+q
+.172549 .431373 .568627 rg
+BT 1 0 0 1 0 1 Tm /F1 6.1 Tf 7.1 TL (NIH ChestX-ray dataset page) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.831373 .878431 .909804 RG
+.5 w
+n 0 131.2693 m 246.6142 131.2693 l S
+n 0 0 m 246.6142 0 l S
+n 0 0 m 0 131.2693 l S
+n 246.6142 0 m 246.6142 131.2693 l S
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 308.9079 cm
+Q
+q
+1 0 0 1 37.1811 307.5079 cm
+q
+.4 w
+1 J
+.831373 .878431 .909804 RG
+n 0 0 m 520.9134 0 l S
+Q
+Q
+q
+1 0 0 1 37.1811 304.8071 cm
+Q
+q
+1 0 0 1 37.1811 298.4071 cm
+q
+.32549 .392157 .454902 rg
+BT 1 0 0 1 0 .8 Tm /F1 5.6 Tf 6.4 TL (Prepared for the report appendix. Counts and descriptive statistics refer to the reviewed project metadata.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+25 42 545.2756 270 re
+f*
+0.952941 0.968627 0.980392 rg
+0.831373 0.878431 0.909804 RG
+0.8 w
+n
+45 75 m
+550.2756 75 l
+554.1452 75 557.2756 78.1304 557.2756 82 c
+557.2756 268 l
+557.2756 271.8696 554.1452 275 550.2756 275 c
+45 275 l
+41.1304 275 38 271.8696 38 268 c
+38 82 l
+38 78.1304 41.1304 75 45 75 c
+h
+B*
+0.164706 0.54902 0.529412 rg
+n
+40 245 m
+41 245 l
+42.1056 245 43 245.8944 43 247 c
+43 266 l
+43 267.1056 42.1056 268 41 268 c
+40 268 l
+38.8944 268 38 267.1056 38 266 c
+38 247 l
+38 245.8944 38.8944 245 40 245 c
+h
+f*
+0.090196 0.203922 0.309804 rg
+BT
+/F2-0 11.4 Tf
+13.68 TL
+ET
+BT
+1 0 0 1 52 254 Tm
+(DUPLICATE IMAGES AND DATA LEAKAGE RISK) Tj
+T*
+ET
+0.32549 0.407843 0.47451 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 444.724 255 Tm
+(Dataset update\072 09 October 2026) Tj
+T*
+ET
+1 1 1 rg
+0.831373 0.878431 0.909804 RG
+n
+55 117 m
+330 117 l
+332.764 117 335 119.236 335 122 c
+335 232 l
+335 234.764 332.764 237 330 237 c
+55 237 l
+52.236 237 50 234.764 50 232 c
+50 122 l
+50 119.236 52.236 117 55 117 c
+h
+B*
+n
+352 117 m
+540.2756 117 l
+543.0396 117 545.2756 119.236 545.2756 122 c
+545.2756 232 l
+545.2756 234.764 543.0396 237 540.2756 237 c
+352 237 l
+349.236 237 347 234.764 347 232 c
+347 122 l
+347 119.236 349.236 117 352 117 c
+h
+B*
+q
+1 0 0 1 59 151 cm
+q
+0.145098 0.215686 0.27451 rg
+BT
+1 0 0 1 0 68.55 Tm
+/F1-0 7.45 Tf
+9.5 TL
+(The NIH ChestX\055ray dataset update dated October 9\054 2026\054 reported several) Tj
+T*
+(pixel\055identical image pairs with different filenames\056 Four reported pairs span the) Tj
+T*
+(official training and testing splits\054 creating a potential data leakage risk\056) Tj
+T*
+(Consequently\054 the official split cannot be assumed to be entirely free of) Tj
+T*
+-0.099394 Tw
+(duplicate\055image leakage\056 We will audit image duplicates and patient\055level overlap) Tj
+T*
+0 Tw
+(before model development\054 document the duplicate\055handling policy\054 and) Tj
+T*
+(evaluate the final model on a clean\054 independent test set\056 The reported) Tj
+T*
+(duplicates and their potential impact will be documented as dataset limitations\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 355 221.8 cm
+q
+0.090196 0.203922 0.309804 rg
+BT
+1 0 0 1 0 1.4 Tm
+/F2-0 6.8 Tf
+8.2 TL
+(FOUR REPORTED TRAIN\226TEST PAIRS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 355 181.2 cm
+q
+BT
+1 0 0 1 0 23.45 Tm
+7.4 TL
+/F1-0 6.15 Tf
+0.145098 0.215686 0.27451 rg
+(Train ) Tj
+/F3-0 6.15 Tf
+(00027864\137003) Tj
+/F1-0 6.15 Tf
+( ) Tj
+/F4 6.15 Tf
+7.4 TL
+(\253) Tj
+/F1-0 6.15 Tf
+7.4 TL
+( Test ) Tj
+/F3-0 6.15 Tf
+(00005681\137024) Tj
+/F1-0 6.15 Tf
+T*
+(Train ) Tj
+/F3-0 6.15 Tf
+(00012388\137000) Tj
+/F1-0 6.15 Tf
+( ) Tj
+/F4 6.15 Tf
+7.4 TL
+(\253) Tj
+/F1-0 6.15 Tf
+7.4 TL
+( Test ) Tj
+/F3-0 6.15 Tf
+(00017214\137007) Tj
+/F1-0 6.15 Tf
+T*
+(Train ) Tj
+/F3-0 6.15 Tf
+(00027864\137000) Tj
+/F1-0 6.15 Tf
+( ) Tj
+/F4 6.15 Tf
+7.4 TL
+(\253) Tj
+/F1-0 6.15 Tf
+7.4 TL
+( Test ) Tj
+/F3-0 6.15 Tf
+(00028328\137000) Tj
+/F1-0 6.15 Tf
+T*
+(Train ) Tj
+/F3-0 6.15 Tf
+(00012388\137001) Tj
+/F1-0 6.15 Tf
+( ) Tj
+/F4 6.15 Tf
+7.4 TL
+(\253) Tj
+/F1-0 6.15 Tf
+7.4 TL
+( Test ) Tj
+/F3-0 6.15 Tf
+(00017214\137007) Tj
+T*
+ET
+Q
+Q
+1 0.968627 0.917647 rg
+0.913725 0.831373 0.709804 RG
+n
+358 123 m
+534.2756 123 l
+536.4868 123 538.2756 124.7888 538.2756 127 c
+538.2756 158 l
+538.2756 160.2112 536.4868 162 534.2756 162 c
+358 162 l
+355.7888 162 354 160.2112 354 158 c
+354 127 l
+354 124.7888 355.7888 123 358 123 c
+h
+B*
+q
+1 0 0 1 360 128.5 cm
+q
+BT
+1 0 0 1 0 22.1 Tm
+7 TL
+/F2-0 5.9 Tf
+0.145098 0.215686 0.27451 rg
+(Proposed handling \050verify files first\051\072) Tj
+/F1-0 5.9 Tf
+( exclude from Test) Tj
+T*
+/F3-0 5.9 Tf
+(00005681\137024) Tj
+/F1-0 5.9 Tf
+(\054 ) Tj
+/F3-0 5.9 Tf
+(00017214\137007) Tj
+/F1-0 5.9 Tf
+(\054 and ) Tj
+/F3-0 5.9 Tf
+(00028328\137000) Tj
+/F1-0 5.9 Tf
+(\056 Review) Tj
+T*
+(the within\055Train duplicate pair ) Tj
+/F3-0 5.9 Tf
+(00012388\137000) Tj
+/F1-0 5.9 Tf
+( \057 ) Tj
+/F3-0 5.9 Tf
+(00012388\137001) Tj
+/F1-0 5.9 Tf
+T*
+(and retain only one copy\056) Tj
+T*
+ET
+Q
+Q
+0.909804 0.94902 0.956863 rg
+0.788235 0.87451 0.886275 RG
+n
+52 82 m
+543.2756 82 l
+545.4868 82 547.2756 83.7888 547.2756 86 c
+547.2756 106 l
+547.2756 108.2112 545.4868 110 543.2756 110 c
+52 110 l
+49.7888 110 48 108.2112 48 106 c
+48 86 l
+48 83.7888 49.7888 82 52 82 c
+h
+B*
+q
+1 0 0 1 56 88.4 cm
+q
+BT
+1 0 0 1 0 8.75 Tm
+-0.029039 Tw
+7.6 TL
+/F2-0 6.45 Tf
+0.145098 0.215686 0.27451 rg
+(Related data\055quality controls\072) Tj
+/F1-0 6.45 Tf
+( split by ) Tj
+/F3-0 6.45 Tf
+(patient\137id) Tj
+/F1-0 6.45 Tf
+(\054 not by image\073 treat report\055extracted labels as weak labels\073 evaluate AP and PA subgroups separately\073 and define a) Tj
+T*
+0 Tw
+(policy for records with age \075 0\056 Proposed duplicate removals remain unconfirmed until image files and metadata are checked\056) Tj
+T*
+ET
+Q
+Q
+0.831373 0.878431 0.909804 RG
+0.5 w
+n
+38 56 m
+557.2756 56 l
+S
+0.32549 0.407843 0.47451 rg
+BT
+/F1-0 6.2 Tf
+7.44 TL
+ET
+BT
+1 0 0 1 38 44 Tm
+(Reliable Chest X\055Ray AI \174 NIH ChestX\055ray14 Data Card) Tj
+T*
+ET
+BT
+1 0 0 1 467.6732 44 Tm
+(Prepared for the report appendix) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000473 00000 n 
+0000000695 00000 n 
+0000000911 00000 n 
+0000001133 00000 n 
+0000025150 00000 n 
+0000025257 00000 n 
+0000025365 00000 n 
+0000025478 00000 n 
+0000025591 00000 n 
+0000025707 00000 n 
+0000025813 00000 n 
+trailer
+<<
+/Size 16
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+25891
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [17 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 17 0 R] >> >> >>
+endobj
+16 0 obj
+<< /Length 24276 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^‘jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^Æjumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:548dfce2-0046-48a7-8dbb-c85cc5197755   ûjumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    ﬂcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameegpt-6gversionegpt-6dwhenx2026-10-27T18:47:45.461725ZrallActionsIncludedÙ   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estartgéflength^‘dnamenjumbf manifestcalgfsha256dhashX §ùn˚AŸª9.‚ﬁãRmët¬ªúr#<)ùF¸“¥'cpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:deec274c-96f9-4802-96d4-8d75edaef81atclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:548dfce2-0046-48a7-8dbb-c85cc5197755/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX ™´î˜ÉùªÂ¬ÎÅ£ßÔè°°uê®dChyDÈDY/¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX À◊Ωª„çâ≤"◊≤?»†]õ∑|é DltÿÚ?ÇÃçΩhdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYã0Çá	*ÜHÜ˜†Çx0Çt10	`ÜHe 0Åá*ÜHÜ˜	†xv0t
++Éø0010	`ÜHe   }º§øPP’^øN6µ ˙ÿI´6∫I’¯ã•ÑÄ†=Ω5lãÏlº20261027184756.703813Z0Ä	 Ú_∞æ&ì‘r†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" Ô\ââÒ7åÇπu48~öƒ ê„¨^~ûLÑ<GZa0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄf‹4Üæ]Ûﬂÿ»fo≈Â -ıÏsecÅ≈=-ƒV°¡¢∫.(l—®!âÇ‡ùV)˝çë1¬˜ë¥ˆÊ;ÒéF¢3ñºÇTÎú≠≈‚uˇÁ3Ù¨Ω‰uE≤ΩjaFπÓ˝¸7€Ú¥K(‘í¿µAù'˛âª¨∑1óÊ7ƒ» ?¬·Àîü¸z¿ê¸7ıKNÿººÍ·˚}Ÿ/ïıw§öˇ}(1.¸Æ˚ó¨∫Q
+∂îÈCt’C|>3(	 ’-ﬂQËW€p”cÆ*cµkAÜg•‹æâY}¡Iß˝®mVí°PK˘|o’µiπ˜QÉ0‚n˙ÑD•Ô¨ΩÕ˙……ìHÎ˚Æ{≥48}=¸Ó≈c˚%´ÀÊIÁ˘Ë˝ö˚≥´˛méaÿ‹âY-hKUü5ÒÁÁ di∫=û¢hV
+£Ìà<Í‚gxE°
+õ%ãXNã¨?∑	@/-dlÚ0ÍbÃ{;©¬π)‹{–Ä€=erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢cÛ¢^ÕÕ≈Rπ?Û”5fm»~20261026221147Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261026221147Z†20261102221146Z°"0 0	+020161028221147Z°#0!0	+0úVëgäx·~·nµ”∏0	*ÜHÜ˜ ÇÅ c~øJ≤÷RZÒ˚®;÷Ôö~*jrìY´ò¬~ÙN\ÉÒ≤¥€úø∫D¿æ$ï¡ﬂ±˙{R©Ò'˝√`}T O¬™?À&`è1$≥∏7—Ãb8P;¨õR=^nhM$jø=\Ñ˘<ÖI‚-Ã2‡¥^_©M4{Äb˝òΩ&Á~û
+¥ã2—$,{X0ÖUâø,,”ˇñÎäôdcÚÃV@é\.•|‹≠ªı±!mú‰
+J{„ø‰;%8—≤˘Z Ù≠lΩx?G"v¬V]1˜>Xµ€ËQ™ ¸Ì¿‡®”Èƒ$Ââ2‰$!(„›wÎÄ†KTµ˜π/Ë'})\E–ÚúW‰Aö[…Ÿæ˚≈¯ó`Õ$ˇ…;-Æ	VÑUeWCﬂ6´¢cÎ√H‘sáïbˇP’Œâ;æx8Ú–á˚÷Ç‘˜|‚8*ˆ”òø´Ä˙Œˆ®¥ƒöŸzA•Õ⁄£ÏH£øæ˝hŒ›Bã£È>•&0Ï¢üÕ-`‚∑íı˘åöÉÙ‹0rÅôÀ†Ç10Ç-0Ç)0Ç†/	õËƒH®EM—g+a0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260102212505Z270102212504Z0M10	UUS10U
+SSL Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ≈Á¯ô…˘Â-œhwÈiëP‹©ë\O¿´—ô)„ñŸ˘Y˜fÄäñû*´¶Ü˘dkV∏NêƒÍ,D[ïp\âKºúÁïA¯V ” &Tn=∆≥ü∂tZ¯€kûPhêù‹Zêò©ãCﬁÇùûœz`ÎãØõè)∏Ü	G≠U[^
+èÍÃäım$8Ëz˚¡¬–Ì+ıÁëpÁzπ‘Üüó4hs‡ü2`Ø∆™tFµ0fÚÎz™ÄDxCü ´bÒ“∑L1R¶$D˝#÷2“y¡⁄¨,fÏËàíCÑ/m,ïìÅ<Òâ¨'ã‘I”kb∆h*(¶»s•lÇÈl‘∞
+ Ûß%lY¬∏≤ürn4‚£x;3 q% ≠•π…[∑CN¢”[Ç¸d^t;{ƒ:ÔS´ñ˚ÌÉqúv<ü¬nmÏYdÔ9´˙åü@ˇπ<±ÃOﬂM%4ØÃ]πBÖk6[ö·0s◊Ú˜?‡ùÃá—πíœÉ‘ƒ\f˚≠Ò £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0UcÛ¢^ÕÕ≈Rπ?Û”5fm»~0UˇÄ0	*ÜHÜ˜ Ç wÏ∫'8¯Ãıl>(‘≥
+œwıÜh|uÉÂIƒh˙√fΩ“pw¸L&à˜0KTdŒë| Ø∑Zµ‰™ôüá6È`ú∞"éΩÊˇ¡5ÿd_¨—>·@â®ÃâÁ†2fµ.øÒ9M˝lsæˆ 6p„’_yŸ÷r¡2LÙÖ©B∏FÇÄ3≈h,ªÂ¸2ûâ_ü–˛üãk\^tüPÒ)úP ƒV¯¯	•xw≥‰ëäÂ *∂·≤≈±!Ω¢ÖÜ8£¨∏:9 ^÷1∂˛∫:™†∫SNÚÛ*OÿdÖÇyZ‹Oã‘S¬=z¿∂¶ΩÑ*Î4Ïí2˚ µi„_:±ìQ…XRòï–6Øö›djÜ^cY¥ÇNßä¸≠˜C9CqQI€««Bë `EØC[i¸J<1ˆ|;Äù¿[^® %ıÌE¸F˛{πˆM,A$§`Ø£ÛÎ„∏ıqÉ»IΩê?Ëÿëé4X6Üﬂ’Œ∂%≈ìY˜s¡3˚0oåπÈ=“{h>6ˆ˘Ïx*˚±˙Bt1ÓöÿHn±¯û–+…ƒè˚<zœ«‰“ßj√3”÷¡ µË"ìLÆ_4éÔi{€|Ãeı1¥UâUÇN»n…√€Oëª^◊EST}hL˜\⁄)›µv,6zãGåÌc‡£´4Ÿ≈∞Eπ∫úÊ•r›∂∏!ﬁê«gcpadY&u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ˆY Dc0Ç—∏[‰$6ÜPsA2Uø«Á„“⁄ı£7°}Ù£q VíZEá¿x–A/o»£{L«ÊÅÍÅÕ'£Ui@Ü5vÈ·j€+’íû≠Œﬁ›£<∏7DŒ≠6@eÌOà€(AçÅÛ$_wÚÈöÉÜBt ∑'sÈb˚πÆ(Ç÷fDXŸ§áyn∑g0Ñ;ø≈]£∫Ës!≠‚¬/+G¬∫©@ßÍT_öÛ¯¶6|ü,è«tçÿ1´£É=H™pÌΩ~0_¿x˚£°2e¬kë
+ò9FØÇ‡n@mn\µi}ÈMSæ‚˜aUM(Nf)¢;~ik
+endstream
+endobj
+17 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 16 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000026290 00001 n 
+16 2
+0000026425 00000 n 
+0000050804 00000 n 
+trailer
+<< /Size 18 /Root 3 1 R /Prev 25891 >>
+startxref
+51000
+%%EOF
