@@ -9,52 +9,44 @@
 
 ---
 
-# 1. Mostafa — Cleaning and Preprocessing
+# 1. Mostafa — Embedding Analysis
 
-## 1.1 Cleaning and Preprocessing
+## 1.1 PCA + UMAP / t-SNE
 
-**Important:** Start the preprocessing stage after Ahmed has organized the images into `Data/C/train`, `Data/C/validation`, and `Data/C/test`. Coordinate with Ahmed to ensure that the preprocessing pipeline uses the correct split for each image.
+The **pretrained image embeddings have already been generated** and are available here:
 
-### 1. Image Resizing
+[Pretrained Image Embeddings](https://drive.google.com/drive/folders/1ZZmQl_Bizu0KJR9TmoYZDjth4Xrnf16K?usp=sharing)
 
-Resize all images to a fixed input resolution suitable for the selected models. Document the chosen resolution and resizing method.
+Use these existing embeddings directly; there is no need to generate the embeddings again.
 
-### 2. Intensity Normalization
+### Requirements
 
-Define and document a consistent procedure for normalizing image pixel intensities.
+- Apply **PCA** to the existing embeddings.
+- Apply **UMAP or t-SNE** for 2D visualization.
+- Visualize the resulting embeddings and distinguish between **Normal** and **Abnormal** classes.
+- Document the selected dimensionality-reduction methods and parameters.
 
-### 3. Data Augmentation
+## 1.2 Clustering / Overlap Interpretation
 
-Apply augmentation to the **training set only**.
+Analyze the PCA and UMAP/t-SNE visualizations.
 
-Use clinically plausible transformations and explain why each transformation is appropriate for chest X-ray images.
+### Requirements
 
-Do not apply augmentation to the validation or test sets.
+- Determine whether Normal and Abnormal images form separate clusters or show significant overlap.
+- Identify possible clustering patterns related to metadata or acquisition characteristics.
+- Investigate potential **shortcuts or confounders** visible in the embedding space.
+- Explain how the observed clustering or overlap may affect model training and evaluation.
 
-### 4. Prevent Data Leakage
+## 1.3 Expected Deliverables
 
-Fit any preprocessing step that learns parameters from the data using the **training set only**.
-
-Apply the learned parameters to the validation and test sets without fitting them again.
-
-### 5. Reproducibility
-
-Save the preprocessing configuration, selected input resolution, normalization method, augmentation settings, and fixed random seed so the pipeline can be reproduced.
-
-## 1.2 Expected Deliverables
-
-- Downloaded dataset stored in the agreed location.
-- Dataset source and access conditions documented.
-- A reproducible preprocessing pipeline.
-- Documented resizing, normalization, and augmentation decisions.
-- Saved preprocessing configuration and random seed.
-- A brief report describing the preprocessing steps and confirming that augmentation is applied only to the training set.
-
-**Dependency:** Ahmed is responsible for organizing and verifying the dataset splits first. Mostafa should coordinate with him and begin preprocessing once the folder structure and split assignments are ready.
+- PCA visualization.
+- UMAP or t-SNE visualization.
+- Analysis of clustering and class overlap.
+- A short report describing the findings and their implications.
 
 ---
 
-# 2. Ahmed — Dataset Visualization and Final Report
+# 2. Ahmed — Dataset Visualization, Duplicate Detection and Final Report
 
 ## 2.1 Visualize the Dataset
 
@@ -78,7 +70,40 @@ Use a fixed random seed so the selected samples can be reproduced.
 
 ---
 
-## 2.2 Final IEEE-Format Report
+## 2.2 Exact & Near Duplicate Detection
+
+### 1. Exact Duplicates
+
+Detect images that are identical using a reliable image hashing method.
+
+### 2. Near-Duplicates
+
+Detect images that are visually very similar using an appropriate image-similarity method.
+
+### 3. Data Leakage Analysis
+
+Check whether duplicates occur:
+
+- Within the same split.
+- Across Train/Validation/Test.
+- Between images belonging to the same patient.
+
+### 4. Expected Results
+
+Report:
+
+- Number of exact duplicate groups.
+- Number of near-duplicate pairs/groups.
+- Patient IDs associated with duplicates.
+- Dataset splits containing duplicates.
+- Examples of detected duplicates.
+- The method and threshold used for near-duplicate detection.
+
+Conclude with the appropriate **cleaning or splitting decision** to prevent data leakage.
+
+---
+
+## 2.3 Final IEEE-Format Report
 
 **Important:** This report is prepared **after the entire project is completed**, not during the initial Phase 1 implementation.
 
